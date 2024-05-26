@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+jupyter
+# Add other dependencies if needed
